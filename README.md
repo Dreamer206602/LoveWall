@@ -9,4 +9,4 @@
 ![image](https://github.com/1036711153/ConfessWall/blob/master/Screenshot_2016-03-23-17-42-33_com.confress.lovew.png?raw=true)
 ![image](https://github.com/1036711153/ConfessWall/blob/master/Screenshot_2016-03-23-17-42-39_com.confress.lovew.png?raw=true)
 
-
+### 还有好多地方容易crash，需要继续优化
