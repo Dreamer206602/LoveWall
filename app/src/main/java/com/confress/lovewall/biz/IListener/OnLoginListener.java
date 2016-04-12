@@ -7,6 +7,5 @@ import com.confress.lovewall.model.User;
  */
 public interface OnLoginListener {
     void OnSuccess(User user);
-
     void OnFailed();
 }

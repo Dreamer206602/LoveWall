@@ -23,7 +23,8 @@ public class UserRegisterPresenter {
     }
 
     public void register() {
-        if (TextUtils.isEmpty(userRegisterView.getPsd()) || TextUtils.isEmpty(userRegisterView.getUsername())|| TextUtils.isEmpty(userRegisterView.getConPsd())|| TextUtils.isEmpty(userRegisterView.getEmail())) {
+        if (TextUtils.isEmpty(userRegisterView.getPsd()) || TextUtils.isEmpty(userRegisterView.getUsername())||
+                TextUtils.isEmpty(userRegisterView.getConPsd())|| TextUtils.isEmpty(userRegisterView.getEmail())) {
             userRegisterView.ErrorOfUsnorPsdorEmail();
             return;
         };
