@@ -40,6 +40,7 @@ public class LoginActivity extends Activity implements IUserLoginView, View.OnCl
     private LinearLayout tvQq;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
