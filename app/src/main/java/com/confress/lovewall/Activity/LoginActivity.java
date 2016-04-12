@@ -127,10 +127,10 @@ public class LoginActivity extends Activity implements IUserLoginView, View.OnCl
                 mUserLoginPresenter.toRememberPsdActivity();
                 break;
             case R.id.tvQq:
-                T.showShort(getApplicationContext(),"Sorry，改功能还未开放！");
+                T.showShort(getApplicationContext(),"Sorry，该功能还未开放！");
                 break;
             case R.id.tvWeibo:
-                T.showShort(getApplicationContext(),"Sorry，改功能还未开放！");
+                T.showShort(getApplicationContext(),"Sorry，该功能还未开放！");
                 break;
         }
     }
